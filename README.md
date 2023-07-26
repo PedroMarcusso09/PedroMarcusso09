@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu Pedro Marcusso</h1>
 <h3 align="center">Desenvolvedor Front-End apaixonado por desafios</h3>
 
-- 🌱 Eu estou aprendendo ** Node.js **
+- 🌱 Eu estou aprendendo **Node.js**
 
 - 💬 Me pergunte sobre **HTML, CSS, Javascript, React e TypeScript**
 
