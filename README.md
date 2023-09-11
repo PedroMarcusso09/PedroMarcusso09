@@ -3,7 +3,7 @@
 
 - 🌱 Eu estou aprendendo **Node.js**
 
-- 💬 Me pergunte sobre **HTML, CSS, Javascript, React e TypeScript**
+- 💬 Me pergunte sobre **HTML, CSS, Javascript, React e TypeScript, Node.js**
 
 - 📫 Você me acha através do e-mail **pedromarcusso@gmail.com**
 
@@ -34,5 +34,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
+    <!-- Node.js -->
+    <a href="https://[www.typescriptlang.org](https://nodejs.org/pt-br/docs)/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    
 </p>
 
