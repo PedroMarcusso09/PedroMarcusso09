@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Marcusso 👋
 
-<h3 align="center">Desenvolvedor Full-Stack apaixonado por desafios</h3>
+Desenvolvedor Full-Stack apaixonado por resolver desafios
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-six-sigma-13.vercel.app/)
 
@@ -34,3 +34,4 @@
     <!-- Jest -->
     <img align="center" alt="html5" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
+
