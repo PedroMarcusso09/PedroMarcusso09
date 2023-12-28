@@ -1,38 +1,36 @@
-<h1 align="center">Olá 👋, eu Pedro Marcusso</h1>
-<h3 align="center">Desenvolvedor Front-End apaixonado por desafios</h3>
+### Olá! Eu sou o Pedro Marcusso 👋
 
-- 🌱 Eu estou aprendendo **Node.js e Jest.js**
+<h3 align="center">Desenvolvedor Full-Stack apaixonado por desafios</h3>
 
-- 💬 Me pergunte sobre **HTML, CSS, Javascript, React e TypeScript**
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-six-sigma-13.vercel.app/)
 
-- 📫 Você me acha através do e-mail **pedromarcusso@gmail.com**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromarcusso/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pedromarcusso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-henrique-abreu-marcusso-b813891a7/" height="30" width="40" /></a>
-</p>
+## Tecnologias que eu domino
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div style="display: inline_block"><br/> 
     <!-- HTML -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    </a>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <!-- CSS -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    </a>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
     <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    </a>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <!-- TypeScript -->
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>    
-</p>
-
+    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <!-- Styled-Component -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <!-- Tailwind -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <!-- Node.JS -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <!-- Express.JS -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <!-- PostgreSQL -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <!-- Django -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+    <!-- Jest -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+</div><br/>
